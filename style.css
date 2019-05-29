@@ -12,7 +12,6 @@
       font-family: Arial, Helvetica, sans-serif;
       color: #777;
       background: #777;
-
       font-size: 18px;
   }
   
@@ -20,12 +19,16 @@
     padding: 20px;
     margin-bottom: 10px;
     background: #ebebeb;
+    margin-left: 300px;
+    margin-right: 300px;
   }
 
   #nav {
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
+    margin-left: 300px;
+    margin-right: 300px;
   }
   
   #section {
@@ -35,6 +38,7 @@
     margin-right: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
+    margin-left: 300px;
   }
 
   #article{
@@ -63,6 +67,7 @@ h3{
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
+    margin-right: 300px;
   }
   
   #footer{
@@ -71,6 +76,8 @@ h3{
     margin-top: 100px;
     margin-bottom: 20px;
     background: #ebebeb;
+    margin-left: 300px;
+    margin-right: 300px;
   }
   
   
