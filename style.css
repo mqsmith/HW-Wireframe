@@ -20,12 +20,37 @@
     margin-bottom: 20px;
     background: #ebebeb;
   }
+
+  #nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #ebebeb;
+  }
   
   #section {
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
   }
+
+  #article{
+    color: #ebebeb;
+    background: #777;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+  color: #777;
+  background: #ebebeb;
+  padding: 20px;
+}
+
+#ap{
+  color: #777;
+  background: #ebebeb;
+  padding: 40px;
+}
   
   #aside {
     padding: 20px;
@@ -33,29 +58,10 @@
     background: #ebebeb;
   }
   
-  #nav {
+  #footer{
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
-  }
-
-  #article{
-      color: #ebebeb;
-      background: #777;
-      padding: 20px;
-      margin-bottom: 20px;
-  }
-
-  h3{
-    color: #777;
-    background: #ebebeb;
-    padding: 20px;
-  }
-
-  #ap{
-    color: #777;
-    background: #ebebeb;
-    padding: 40px;
   }
   
   
