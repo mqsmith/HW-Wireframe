@@ -57,8 +57,7 @@ h3{
 }
   
   #aside {
-    clear: both;
-    float: right;
+    float: left;
     width: 400px;
     height: 463px;
     padding: 20px;
