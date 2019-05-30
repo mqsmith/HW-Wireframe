@@ -18,14 +18,14 @@
   }
   
   #header {
-    padding: 20px;
+    padding: 40px;
     margin-bottom: 10px;
     background: #ebebeb;
 
   }
 
   #nav {
-    padding: 20px;
+    padding: 40px;
     margin-bottom: 20px;
     background: #ebebeb;
 
@@ -34,7 +34,7 @@
   #section {
     float: left;
     width: 495px;
-    height: 350px;
+    height: 280px;
     padding: 20px;
     margin-right: 20px;
     background: #ebebeb;
@@ -44,12 +44,14 @@
   #article{
     color: #ebebeb;
     background: #777;
+    margin-top: 10px;
     margin-bottom: 5px;
 }
 
 #h3{
   color: #777;
   margin: 20px;
+  padding: 20px;
   background: #ebebeb;
 
 }
@@ -64,7 +66,7 @@
   #aside {
     float: left;
     width: 445px;
-    height: 350px;
+    height: 280px;
     padding: 20px;
     margin-bottom: 20px;
     background: #ebebeb;
@@ -73,7 +75,7 @@
   
   #footer{
       clear: both;
-    padding: 20px;
+    padding: 40px;
     margin-top: 100px;
     margin-bottom: 20px;
     background: #ebebeb;
